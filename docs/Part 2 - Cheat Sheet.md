@@ -73,7 +73,7 @@ when prompted, select yes to reuse the firebase.json.
 
 **One-liner:**
 ```bash
-curl -o lib/main.dart "https://raw.githubusercontent.com/pedi10/rec_flutter-firebase_internal/main/Final%20Codes/main.dart" && curl -o lib/map_page.dart "https://raw.githubusercontent.com/pedi10/rec_flutter-firebase_internal/main/Final%20Codes/map_page.dart" && curl -o lib/control.dart "https://raw.githubusercontent.com/pedi10/rec_flutter-firebase_internal/main/Final%20Codes/control.dart" && curl -o lib/dashboard_firestore.dart "https://raw.githubusercontent.com/pedi10/rec_flutter-firebase_internal/main/Final%20Codes/dashboard_firestore.dart" && curl -o lib/config.dart "https://raw.githubusercontent.com/pedi10/rec_flutter-firebase_internal/main/Final%20Codes/config.dart" && curl -o web/index.html "https://raw.githubusercontent.com/pedi10/rec_flutter-firebase_internal/main/Final%20Codes/index.html"
+curl -o lib/main.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/main.dart" && curl -o lib/map_page.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/map_page.dart" && curl -o lib/control.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/control.dart" && curl -o lib/dashboard_firestore.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/dashboard_firestore.dart" && curl -o lib/config.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/config.dart" && curl -o web/index.html "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/index.html"
 ```
 
 **Step-by-step explanation:**
