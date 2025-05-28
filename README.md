@@ -51,6 +51,6 @@ recworkshop_flutterfirebase/
 
 ---
 
-*Created for the REC Workshop: Flutter & Firebase Workshop </br>
+*Created for the REC Workshop: Flutter & Firebase</br>
 Pedram Moshiri</br>
 May 2025*
