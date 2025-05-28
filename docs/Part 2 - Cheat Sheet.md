@@ -73,15 +73,15 @@ when prompted, select yes to reuse the firebase.json.
 
 **One-liner:**
 ```bash
-curl -o lib/main.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/main.dart" && curl -o lib/map_page.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/map_page.dart" && curl -o lib/control.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/control.dart" && curl -o lib/dashboard_firestore.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/dashboard_firestore.dart" && curl -o lib/config.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/config.dart" && curl -o web/index.html "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/index.html"
+curl -o lib/main.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/main.dart" && curl -o lib/map_page.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/map_page.dart" && curl -o lib/remote_control_page.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/remote_control_page.dart" && curl -o lib/dashboard_page.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/dashboard_page.dart" && curl -o lib/config_page.dart "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/config_page.dart" && curl -o web/index.html "https://raw.githubusercontent.com/pedi10/recworkshop_flutterfirebase/main/codes/index.html"
 ```
 
 **Step-by-step explanation:**
 1. `curl -o lib/main.dart "..."` - Downloads the main app entry point with Firebase initialization
 2. `curl -o lib/map_page.dart "..."` - Downloads the Google Maps integration page
-3. `curl -o lib/control.dart "..."` - Downloads the robot control interface with Realtime Database
-4. `curl -o lib/dashboard_firestore.dart "..."` - Downloads the dashboard with Firestore data visualization
-5. `curl -o lib/config.dart "..."` - Downloads configuration file with app constants
+3. `curl -o lib/remote_control_page.dart "..."` - Downloads the robot control interface with Realtime Database
+4. `curl -o lib/dashboard_page.dart "..."` - Downloads the dashboard with Firestore data visualization
+5. `curl -o lib/config_page.dart "..."` - Downloads configuration file with app constants
 6. `curl -o web/index.html "..."` - Downloads web HTML file with Firebase and Maps SDK scripts
 
 **Verification**:
